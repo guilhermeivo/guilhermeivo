@@ -2,7 +2,7 @@
 
 ## Sou desenvolvedor!
 - 🔭 Atualmente, estou desenvolvendo um ...!
-- 🌱 Atualmente, estou aprendendo React 😊
+- 🌱 Atualmente, estou aprendendo ... 😊
 
 ### Linguagens e Ferramentas:
 
